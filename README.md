@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nehaya-sahla/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Nehaya Sahla](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Nehaya Sahla](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
