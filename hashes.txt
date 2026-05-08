@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nehaya Sahla
+
+This log tracks the cryptographic history and versioning for the song **Nehaya Sahla** (nehaya-sahla).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:29:57.162397 | `v1` | `fc6ef6b21be7312d0ed04415c88229a6f08db20d164168c3452433ad83e32141` | `3de37a8a18fd48ce313618b14d889fe96a66e829591def7673483a71e675bf34` | `2026-05-09_nehaya-sahla-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
